@@ -13,7 +13,7 @@ Using python for Business Computing
 - PBC(1) w2 Python basics
 - PBC(1) w1 什麼是「資訊管理」：資訊科技的商管應用
 - PBC(1) w2 Python 程式設計初探
-- [HW0](https://github.com/anniechen0506/Programming-for-Business-Computing-python/hw0)
+- [HW0](https://github.com/anniechen0506/Programming-for-Business-Computing-python/blob/a09d03da659cf9b82182344987b6ca6fedc6abbe/HW0)
 
 ### week 2
 - PBC(1) w3 Computers and conditionals
