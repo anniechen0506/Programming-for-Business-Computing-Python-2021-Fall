@@ -15,7 +15,7 @@ Using python for Business Computing
 
 ### week 2
 - PBC(1) w3 Computers and conditionals 「電腦運作基本原理」與「條件式選擇」
-- [HW1](https://github.com/anniechen0506/Programming-for-Business-Computing-python/hw1)
+- [HW1-Q1](https://github.com/anniechen0506/Programming-for-Business-Computing-Python-2021-Fall/blob/main/HW1-Q1)
 
 ### week 3
 - PBC(1) w4 Conditionals and iterations 「條件式選擇」與「迴圈」
