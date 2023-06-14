@@ -1,6 +1,7 @@
 # Programming-for-Business-Computing-python
 This is the repo for Programming for Business Computing (PBC110) at National Taiwan University
-Reference: - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
+
+- Reference: [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 
 ## Final Project: "Your Café"
 
