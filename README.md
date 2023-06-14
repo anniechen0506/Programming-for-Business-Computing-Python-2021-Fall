@@ -1,9 +1,6 @@
 # Programming-for-Business-Computing-python
-Using python for Business Computing
-1. Programming for Business Computing in Python
-2. National Taiwan University 2021 Fall
-3. Reference
-- [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
+This is the repo for Programming for Business Computing (PBC110) at National Taiwan University
+Reference: - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 
 ## Final Project: "Your Café"
 
@@ -15,11 +12,11 @@ Using python for Business Computing
 
 ### week 2
 - PBC(1) w3 Computers and conditionals 「電腦運作基本原理」與「條件式選擇」
-- [HW1-Q1](https://github.com/anniechen0506/Programming-for-Business-Computing-Python-2021-Fall/blob/main/HW1-Q1)
+- [HW1](https://github.com/anniechen0506/Programming-for-Business-Computing-Python-2021-Fall/blob/main/HW1)
 
 ### week 3
 - PBC(1) w4 Conditionals and iterations 「條件式選擇」與「迴圈」
-- [HW2](https://github.com/anniechen0506/Programming-for-Business-Computing-python/hw2)
+- [HW2](https://github.com/anniechen0506/Programming-for-Business-Computing-python/HW2)
 
 ### week 4
 - PBC(1) w5 Lists and applications in operations management 「清單」與「程式演算在作業管理的應用」
