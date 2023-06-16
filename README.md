@@ -20,4 +20,4 @@ This is the repo for Programming for Business Computing (PBC110) at National Tai
 - W11: Classes and objects
 - W12: Plotting using matplotlib - [HW8](https://github.com/anniechen0506/Programming-for-Business-Computing-Python-2021-Fall/blob/main/HW8)
 - W13: Python Applications in Accounting
-- W14: Graphical user interface using tkInter
+- W14: Graphical user interface using tkInter - [Graphical User Interface.py](https://github.com/anniechen0506/Programming-for-Business-Computing-Python-2021-Fall/blob/main/Final%20Project_Cafe%20Just%20For%20You/Graphical_User_Interface.py)
