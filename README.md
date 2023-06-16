@@ -3,7 +3,8 @@ This is the repo for Programming for Business Computing (PBC110) at National Tai
 
 - Reference: [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 
-## Final Project: ["Find your own Café"] (https://github.com/anniechen0506/Programming-for-Business-Computing-Python-2021-Fall/tree/main/Final%20Project_Find%20your%20own%20Cafe)
+## Final Project: ["Café Just For You"](https://github.com/anniechen0506/Programming-for-Business-Computing-Python-2021-Fall/tree/main/Final%20Project_Find%20your%20own%20Cafe)
+"Café Just For You" is committed to helping users according to their own needs, from sockets, wifi, quietness, to cafe style, you can choose from it, and our web will find the cafe that is exclusive for you!
 
 ## Syllabus
 - W1: Python basics and What is IT Management - [HW0](https://github.com/anniechen0506/Programming-for-Business-Computing-python/blob/a09d03da659cf9b82182344987b6ca6fedc6abbe/HW0)
